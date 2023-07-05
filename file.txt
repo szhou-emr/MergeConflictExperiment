@@ -1,15 +1,10 @@
-1   -refac on //2
-2 -refac on //2
-3 -refac on //2
-4 -refac on //2
-5 -refac on //2      
 
-    yooo phase1 add things between 5 6
     phae1 just add a little bit
     
+1   --- yoo phase2 refactored   2   --- yoo phase2 refactored  3   --- yoo phase2 refactored   4   --- yoo phase2 refactored 5   --- yoo phase2 refactored 
 
+    yooo phase1 add things between 5 6  
+    then phase2 refaced again.....
+    then phase2 refaced again.....again...
 
-6 -refac on 1
-7 -refac on 1
-8 -refac on 1
-9  -refac on 1
+6   --- yoo phase2 refactored  7   --- yoo phase2 refactored   8   --- yoo phase2 refactored 
